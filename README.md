@@ -248,15 +248,6 @@ Stigler-s-Nutrition-Diet-Problem/
 └── README.md
 ```
 
-## How to Use the Project
-
-1. Open the repository and review the materials in the `Content` folder.
-2. Review the food set, nutrient set, RDA parameters, prices, and nutrient-value matrix.
-3. Open the GAMS model developed using the GAMS language.
-4. Run the Linear Programming model in GAMS.
-5. Examine the optimized food expenditure and nutritional constraint results.
-6. Compare the solution with the nutritional requirements specified in the model.
-
 ## Key Takeaways
 
 The project demonstrates the application of Linear Programming to a practical nutrition-planning problem.
